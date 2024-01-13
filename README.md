@@ -1,4 +1,4 @@
-# Tournament-Organizer
+# Tournament Organizer
 A desktop app that keeps track of players/teams and creates skill-determined brackets to help run 5v5 game tournaments.
 
 To use, the Tournament Organizer and Database file must be in the same directory since Database uses text files to store data. 
