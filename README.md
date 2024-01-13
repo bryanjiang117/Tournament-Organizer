@@ -15,3 +15,7 @@ they may start the tournament and document the result of each match until a winn
 | ![Tournament-organizer-2](https://github.com/bryanjiang117/Tournament-Organizer/assets/66335098/48cc6b1a-c251-4647-a898-03612242a8f2) | 
 |:--:| 
 |*Brackets in Grand Finals with Player Searching*|
+
+| ![Tournament-organizer-3](https://github.com/bryanjiang117/Tournament-Organizer/assets/66335098/a2bee300-4c03-4c97-a59c-7d875de12753) | 
+|:--:| 
+|*Team/Player Editor*|
